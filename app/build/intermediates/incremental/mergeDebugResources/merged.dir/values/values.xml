@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="comtype_spinner">
+        <item>RS232</item>
+    </string-array>
+    <string-array name="sp_block">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+    </string-array>
+    <string-array name="type_spinner">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+    <color name="divide">#000000</color>
+    <color name="epc_selected">#11000000</color>
+    <color name="light_blue">#0bbbf7</color>
+    <color name="transparent_background">#ffffffff</color>
+    <color name="transparent_background_button">#11000000</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="button_width">80dp</dimen>
+    <dimen name="lable_num_width">45dp</dimen>
+    <dimen name="lable_width">345dp</dimen>
+    <dimen name="list_devide">1dp</dimen>
+    <dimen name="list_height">250dp</dimen>
+    <dimen name="list_width">404dp</dimen>
+    <dimen name="rm_6c_et_height">40dp</dimen>
+    <drawable name="clr_normal">#666666</drawable>
+    <drawable name="clr_pressed">#333333</drawable>
+    <drawable name="list_normal">#00000000</drawable>
+    <drawable name="list_pressed">#FF333333</drawable>
+    <string name="Count">Count:</string>
+    <string name="Label">Label:</string>
+    <string name="Result">Result:</string>
+    <string name="Time">Time(ms):</string>
+    <string name="action_settings">Settings</string>
+    <string name="afi">AFI(Hex):</string>
+    <string name="app_name">RFIDDemo</string>
+    <string name="baudrate">BaudRate:</string>
+    <string name="blockLength">Block length(Dec):</string>
+    <string name="blockNo">Block(Dec):</string>
+    <string name="btClear">Clear</string>
+    <string name="btConnect">Connect</string>
+    <string name="btGet">Get</string>
+    <string name="btSet">Set</string>
+    <string name="btStart">Start Inventory</string>
+    <string name="btStop">Stop Inventory</string>
+    <string name="btrblock">Read Block</string>
+    <string name="btrblocks">Read Blocks</string>
+    <string name="btwblock">Write Block</string>
+    <string name="com_type">Type:</string>
+    <string name="content_empty_warning">Write data need content not be empty!</string>
+    <string name="data_ilegal">Data illegal!(empty or length is odd?)</string>
+    <string name="easalarm">EAS Alarm</string>
+    <string name="failed">Failed</string>
+    <string name="getafi">Read AFI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="label_type">Type:</string>
+    <string name="length_content_warning">Length and content does not match!</string>
+    <string name="length_empty_warning">Length can not be empty!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="open_warning">You must open the device before your operate!</string>
+    <string name="password">Password(Hex):</string>
+    <string name="power">Power:</string>
+    <string name="protectafi">Protect AFI</string>
+    <string name="protecteas">Protect EAS</string>
+    <string name="pwd_empty_warning">Password can not be empty!</string>
+    <string name="rdata">Read Data(Hex):</string>
+    <string name="reseteas">Reset EAS</string>
+    <string name="selecttag">You must select one label to operationu!</string>
+    <string name="serialport">SerialPort:</string>
+    <string name="setafi">Set AFI</string>
+    <string name="seteas">Set EAS</string>
+    <string name="setpassword">Set Password</string>
+    <string name="strEasAlarm">EAS Alarm</string>
+    <string name="strNoalarm">No Alarm</string>
+    <string name="str_lenght_odd_warning">Length of every data can not be odd!</string>
+    <string name="success">Success</string>
+    <string name="tab_operation">READ AND WRITE</string>
+    <string name="tab_scan">INVENTORY</string>
+    <string name="tab_set">SETTING</string>
+    <string name="title_activity_connect232">Connect232</string>
+    <string name="title_activity_rw_">RW_Activity</string>
+    <string name="title_activity_testasda">Testasda</string>
+    <string name="version">Version:</string>
+    <string name="wdata">Write Data(Hex):</string>
+    <string name="wordptr_empty_warning">WordPtr can not be empty!</string>
+    <string name="writepassword">Write Password</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

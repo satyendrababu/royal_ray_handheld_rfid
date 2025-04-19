@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_left.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/left.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_table_item_middle_select.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/table_item_middle_select.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_color_button_selector.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/color_button_selector.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/xml_inventorylist_tittle.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/xml/inventorylist_tittle.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_table_item_press_select.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/table_item_press_select.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_up.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/up.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_btn_select_background_select.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/btn_select_background_select.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_table_item_middle_selector.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/table_item_middle_selector.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/layout_listtag_items.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/layout/listtag_items.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_table_item_top_selector.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/table_item_top_selector.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_btn_select_background_select_right.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/btn_select_background_select_right.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_btn_check_on.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/btn_check_on.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_more_set_button_disenabled.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/more_set_button_disenabled.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/layout_activity_connect232.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/layout/activity_connect232.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_btn_select_background_select_left_down.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/btn_select_background_select_left_down.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/layout_activity_main.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/menu_connect232.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/menu/connect232.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_editbox_background.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/editbox_background.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_button_press_background.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/button_press_background.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/menu_main.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/menu/main.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_btn_select_background_select_left.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/btn_select_background_select_left.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_table_item_bottom_select.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/table_item_bottom_select.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_button_selector.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/button_selector.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_table_item_bottom.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/table_item_bottom.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_table_item_press_selector.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/table_item_press_selector.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_more_set_button_click.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/more_set_button_click.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_bg_default_button_selector.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/bg_default_button_selector.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/layout_listinfo_items.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/layout/listinfo_items.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_btn_select_background.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/btn_select_background.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/layout_scan_view.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/layout/scan_view.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_more_set_button_background_selector.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/more_set_button_background_selector.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_readonly_editbox_background.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/readonly_editbox_background.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_radio_button_selector.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/radio_button_selector.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_down.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/down.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_btn_check_off.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/btn_check_off.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_btn_select_background_select_right_down.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/btn_select_background_select_right_down.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_more_set_button.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/more_set_button.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_table_item_press.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/table_item_press.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_right.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/right.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_list_bg.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/list_bg.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_radio_button_not_checked.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/radio_button_not_checked.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_gradient_bg.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/gradient_bg.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_icon_popupwin_menu_bg.9.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/icon_popupwin_menu_bg.9.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/menu_rw_.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/menu/rw_.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_menu_icon.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/menu_icon.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_table_item_top.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/table_item_top.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_check_button_selector.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/check_button_selector.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_radio_button_checked.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/radio_button_checked.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_table_item_bottom_selector.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/table_item_bottom_selector.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_list_bg_selector.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/list_bg_selector.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_a.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/a.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_table_item_top_select.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/table_item_top_select.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_color_button_background.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/color_button_background.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_title_button_selector.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/title_button_selector.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/layout_activity_rw_data.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/layout/activity_rw_data.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/menu_activity_mainsad.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/menu/activity_mainsad.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_back.png.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_button_background.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/button_background.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/raw_scan_new.ogg.flat",
+        "source": "com.rfid.hf.app-main-9:/raw/scan_new.ogg"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_button_disenabled_background.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/button_disenabled_background.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_table_item_middle.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/table_item_middle.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/drawable-hdpi_list_item_selector.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/drawable-hdpi/list_item_selector.xml"
+    },
+    {
+        "merged": "com.rfid.hf.app-debug-7:/layout_query.xml.flat",
+        "source": "com.rfid.hf.app-main-9:/layout/query.xml"
+    }
+]

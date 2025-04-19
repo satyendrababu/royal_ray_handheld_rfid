@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Wed Oct 20 14:33:16 GMT+08:00 2021
+1.base=F\:\\CLient group\\Client group-D\\sq53c\\RFIDDemo(0.5W) - 20211020\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\0
+2.path=classes.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=F\:\\CLient group\\Client group-D\\sq53c\\RFIDDemo(0.5W) - 20211020\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+3.set=NATIVE_RESOURCE
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=lib/armeabi/libserial_port.so
+count=4
+1.set=NATIVE_RESOURCE
+0.path=lib/armeabi/libdevapi.so
+3.base=F\:\\CLient group\\Client group-D\\sq53c\\RFIDDemo(0.5W) - 20211020\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\0
+0.set=NATIVE_RESOURCE
+0.base=F\:\\CLient group\\Client group-D\\sq53c\\RFIDDemo(0.5W) - 20211020\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\0
+2.baseType=DIRECTORY
+1.path=lib/armeabi/libirdaSerialPort.so

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="comtype_spinner">
+        <item>RS232</item>
+    </string-array>
+    <string-array name="sp_block">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+    </string-array>
+    <string-array name="type_spinner">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+    <drawable name="clr_normal">#666666</drawable>
+    <drawable name="clr_pressed">#333333</drawable>
+    <drawable name="list_normal">#00000000</drawable>
+    <drawable name="list_pressed">#FF333333</drawable>
+    <string name="Count">轮数:</string>
+    <string name="Label">张数:</string>
+    <string name="Result">指令执行结果:</string>
+    <string name="Time">时间(ms):</string>
+    <string name="action_settings">Settings</string>
+    <string name="afi">AFI(Hex):</string>
+    <string name="app_name">RFIDDemo</string>
+    <string name="baudrate">波特率:</string>
+    <string name="blockLength">块数量(Dec):</string>
+    <string name="blockNo">待读取块号(Dec):</string>
+    <string name="btClear">清空</string>
+    <string name="btConnect">连接</string>
+    <string name="btGet">读取</string>
+    <string name="btSet">设置</string>
+    <string name="btStart">开始盘点</string>
+    <string name="btStop">停止盘点</string>
+    <string name="btrblock">读单块</string>
+    <string name="btrblocks">读多块</string>
+    <string name="btwblock">写单块</string>
+    <string name="com_type">通讯方式:</string>
+    <string name="content_empty_warning">写数据不能为空!</string>
+    <string name="data_ilegal">Data illegal!(empty or length is odd?)</string>
+    <string name="easalarm">检测EAS报警</string>
+    <string name="failed">执行失败</string>
+    <string name="getafi">读取AFI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="label_type">标签类型:</string>
+    <string name="length_content_warning">长度和数据不匹配!</string>
+    <string name="length_empty_warning">长度不能为空!</string>
+    <string name="menu_settings">设置</string>
+    <string name="open_warning">请先连接设备!</string>
+    <string name="password">密码(Hex):</string>
+    <string name="power">功率:</string>
+    <string name="protectafi">AFI密码保护</string>
+    <string name="protecteas">EAS密码保护</string>
+    <string name="pwd_empty_warning">密码不能为空!</string>
+    <string name="rdata">读数据(Hex):</string>
+    <string name="reseteas">重置EAS</string>
+    <string name="selecttag">请选择标签进行UID操作!</string>
+    <string name="serialport">串口:</string>
+    <string name="setafi">设置AFI</string>
+    <string name="seteas">设置EAS</string>
+    <string name="setpassword">设置密码</string>
+    <string name="strEasAlarm">EAS报警</string>
+    <string name="strNoalarm">无报警</string>
+    <string name="str_lenght_odd_warning">Length of every data can not be odd!</string>
+    <string name="success">执行成功</string>
+    <string name="tab_operation">读写</string>
+    <string name="tab_scan">查询</string>
+    <string name="tab_set">设置</string>
+    <string name="title_activity_connect232">Connect232</string>
+    <string name="title_activity_rw_">RW_Activity</string>
+    <string name="title_activity_testasda"/>
+    <string name="version">固件版本:</string>
+    <string name="wdata">写数据(Hex):</string>
+    <string name="wordptr_empty_warning">起始块号不能为空!</string>
+    <string name="writepassword">写密码</string>
+</resources>

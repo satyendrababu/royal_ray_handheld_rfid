@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0" from-dependency="true" generated-set="com.android.support:support-compat:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res"><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values\values.xml" qualifiers=""><color name="notification_action_color_filter">#ffffffff</color><color name="notification_icon_bg_color">#ff9e9e9e</color><color name="ripple_material_light">#1f000000</color><color name="secondary_text_default_material_light">#8a000000</color><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><dimen name="compat_button_inset_horizontal_material">4dp</dimen><dimen name="compat_button_inset_vertical_material">6dp</dimen><dimen name="compat_button_padding_horizontal_material">8dp</dimen><dimen name="compat_button_padding_vertical_material">4dp</dimen><dimen name="compat_control_corner_material">2dp</dimen><dimen name="compat_notification_large_icon_max_height">320dp</dimen><dimen name="compat_notification_large_icon_max_width">320dp</dimen><dimen name="notification_action_icon_size">32dp</dimen><dimen name="notification_action_text_size">13sp</dimen><dimen name="notification_big_circle_margin">12dp</dimen><dimen name="notification_content_margin_start">8dp</dimen><dimen name="notification_large_icon_height">64dp</dimen><dimen name="notification_large_icon_width">64dp</dimen><dimen name="notification_main_column_padding_top">10dp</dimen><dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen><dimen name="notification_right_icon_size">16dp</dimen><dimen name="notification_right_side_padding_top">2dp</dimen><dimen name="notification_small_icon_background_padding">3dp</dimen><dimen name="notification_small_icon_size_as_large">24dp</dimen><dimen name="notification_subtext_size">13sp</dimen><dimen name="notification_top_pad">10dp</dimen><dimen name="notification_top_pad_large_text">5dp</dimen><drawable name="notification_template_icon_bg">#3333B5E5</drawable><drawable name="notification_template_icon_low_bg">#0cffffff</drawable><item name="line1" type="id"/><item name="line3" type="id"/><item name="tag_transition_group" type="id"/><item name="tag_unhandled_key_event_manager" type="id"/><item name="tag_unhandled_key_listeners" type="id"/><item name="text" type="id"/><item name="text2" type="id"/><item name="title" type="id"/><integer name="status_bar_notification_info_maxnum">999</integer><string name="status_bar_notification_info_overflow">999+</string><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/><style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/><style name="Widget.Compat.NotificationActionContainer" parent=""/><style name="Widget.Compat.NotificationActionText" parent=""/></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-af\values-af.xml" qualifiers="af"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-am\values-am.xml" qualifiers="am"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-ar\values-ar.xml" qualifiers="ar"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-as\values-as.xml" qualifiers="as"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-az\values-az.xml" qualifiers="az"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-b+sr+Latn\values-b+sr+Latn.xml" qualifiers="b+sr+Latn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-be\values-be.xml" qualifiers="be"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-bg\values-bg.xml" qualifiers="bg"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-bn\values-bn.xml" qualifiers="bn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-bs\values-bs.xml" qualifiers="bs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-ca\values-ca.xml" qualifiers="ca"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-cs\values-cs.xml" qualifiers="cs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-da\values-da.xml" qualifiers="da"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-de\values-de.xml" qualifiers="de"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-el\values-el.xml" qualifiers="el"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-en-rAU\values-en-rAU.xml" qualifiers="en-rAU"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-en-rCA\values-en-rCA.xml" qualifiers="en-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-en-rGB\values-en-rGB.xml" qualifiers="en-rGB"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-en-rIN\values-en-rIN.xml" qualifiers="en-rIN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-en-rXC\values-en-rXC.xml" qualifiers="en-rXC"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‎‏‏‎‏‏‏‎‏‏‎‎‎‎‏‎‏‎‎‎‏‏‏‏‏‎‏‏‏‎‏‎‏‎‏‏‏‎‎‏‎‏‏‏‎‏‏‏‏‏‏‏‎‎‎‏‏‎999+‎‏‎‎‏‎"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-es\values-es.xml" qualifiers="es"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-es-rUS\values-es-rUS.xml" qualifiers="es-rUS"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-et\values-et.xml" qualifiers="et"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-eu\values-eu.xml" qualifiers="eu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-fa\values-fa.xml" qualifiers="fa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-fi\values-fi.xml" qualifiers="fi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-fr\values-fr.xml" qualifiers="fr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-fr-rCA\values-fr-rCA.xml" qualifiers="fr-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-gl\values-gl.xml" qualifiers="gl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">">999"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-gu\values-gu.xml" qualifiers="gu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-hi\values-hi.xml" qualifiers="hi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-hr\values-hr.xml" qualifiers="hr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-hu\values-hu.xml" qualifiers="hu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-hy\values-hy.xml" qualifiers="hy"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-in\values-in.xml" qualifiers="in"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-is\values-is.xml" qualifiers="is"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-it\values-it.xml" qualifiers="it"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-iw\values-iw.xml" qualifiers="iw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-ja\values-ja.xml" qualifiers="ja"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-ka\values-ka.xml" qualifiers="ka"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-kk\values-kk.xml" qualifiers="kk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-km\values-km.xml" qualifiers="km"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-kn\values-kn.xml" qualifiers="kn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-ko\values-ko.xml" qualifiers="ko"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-ky\values-ky.xml" qualifiers="ky"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-lo\values-lo.xml" qualifiers="lo"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-lt\values-lt.xml" qualifiers="lt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-lv\values-lv.xml" qualifiers="lv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-mk\values-mk.xml" qualifiers="mk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-ml\values-ml.xml" qualifiers="ml"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-mn\values-mn.xml" qualifiers="mn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-mr\values-mr.xml" qualifiers="mr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-ms\values-ms.xml" qualifiers="ms"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-my\values-my.xml" qualifiers="my"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"၉၉၉+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-nb\values-nb.xml" qualifiers="nb"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-ne\values-ne.xml" qualifiers="ne"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-nl\values-nl.xml" qualifiers="nl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-or\values-or.xml" qualifiers="or"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-pa\values-pa.xml" qualifiers="pa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-pl\values-pl.xml" qualifiers="pl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-pt\values-pt.xml" qualifiers="pt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-pt-rBR\values-pt-rBR.xml" qualifiers="pt-rBR"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-pt-rPT\values-pt-rPT.xml" qualifiers="pt-rPT"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-ro\values-ro.xml" qualifiers="ro"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-ru\values-ru.xml" qualifiers="ru"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-si\values-si.xml" qualifiers="si"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-sk\values-sk.xml" qualifiers="sk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-sl\values-sl.xml" qualifiers="sl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-sq\values-sq.xml" qualifiers="sq"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-sr\values-sr.xml" qualifiers="sr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-sv\values-sv.xml" qualifiers="sv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-sw\values-sw.xml" qualifiers="sw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-ta\values-ta.xml" qualifiers="ta"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-te\values-te.xml" qualifiers="te"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-th\values-th.xml" qualifiers="th"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-tl\values-tl.xml" qualifiers="tl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-tr\values-tr.xml" qualifiers="tr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-uk\values-uk.xml" qualifiers="uk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-ur\values-ur.xml" qualifiers="ur"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-uz\values-uz.xml" qualifiers="uz"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-v16\values-v16.xml" qualifiers="v16"><dimen name="notification_right_side_padding_top">4dp</dimen></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-v21\values-v21.xml" qualifiers="v21"><color name="notification_action_color_filter">@color/secondary_text_default_material_light</color><dimen name="notification_content_margin_start">0dp</dimen><dimen name="notification_main_column_padding_top">0dp</dimen><dimen name="notification_media_narrow_margin">12dp</dimen><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification"/><style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time"/><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title"/><style name="Widget.Compat.NotificationActionContainer" parent="">
+        <item name="android:background">@drawable/notification_action_background</item>
+    </style><style name="Widget.Compat.NotificationActionText" parent="">
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:textColor">@color/secondary_text_default_material_light</item>
+        <item name="android:textSize">@dimen/notification_action_text_size</item>
+    </style></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-vi\values-vi.xml" qualifiers="vi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-zh-rCN\values-zh-rCN.xml" qualifiers="zh-rCN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-zh-rHK\values-zh-rHK.xml" qualifiers="zh-rHK"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-zh-rTW\values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\86cf49d0ee843f7cc4c77d5b862337ca\transformed\support-compat-28.0.0\res\values-zu\values-zu.xml" qualifiers="zu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:coordinatorlayout:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\c349759a6043b673d1c9b2e2d57eefbe\transformed\coordinatorlayout-28.0.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:coordinatorlayout:28.0.0" from-dependency="true" generated-set="com.android.support:coordinatorlayout:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\c349759a6043b673d1c9b2e2d57eefbe\transformed\coordinatorlayout-28.0.0\res"><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\c349759a6043b673d1c9b2e2d57eefbe\transformed\coordinatorlayout-28.0.0\res\values\values.xml" qualifiers=""><attr format="reference" name="coordinatorLayoutStyle"/><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-media-compat:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\eb4644e115515227d71d22550a902245\transformed\support-media-compat-28.0.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-media-compat:28.0.0" from-dependency="true" generated-set="com.android.support:support-media-compat:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\eb4644e115515227d71d22550a902245\transformed\support-media-compat-28.0.0\res"><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\eb4644e115515227d71d22550a902245\transformed\support-media-compat-28.0.0\res\values\values.xml" qualifiers=""><color name="notification_material_background_media_default_color">#ff424242</color><color name="primary_text_default_material_dark">#ffffffff</color><color name="secondary_text_default_material_dark">#b3ffffff</color><dimen name="subtitle_corner_radius">2dp</dimen><dimen name="subtitle_outline_width">2dp</dimen><dimen name="subtitle_shadow_offset">2dp</dimen><dimen name="subtitle_shadow_radius">2dp</dimen><integer name="cancel_button_image_alpha">127</integer><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\eb4644e115515227d71d22550a902245\transformed\support-media-compat-28.0.0\res\values-v21\values-v21.xml" qualifiers="v21"><style name="TextAppearance.Compat.Notification.Info.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Time.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Title.Media">
+        <item name="android:textColor">@color/primary_text_default_material_dark</item>
+    </style></file><file path="C:\Users\Satyendra\.gradle\caches\8.11.1\transforms\eb4644e115515227d71d22550a902245\transformed\support-media-compat-28.0.0\res\values-v24\values-v24.xml" qualifiers="v24"><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res"><file name="a" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\a.png" qualifiers="hdpi-v4" type="drawable"/><file name="back" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\back.png" qualifiers="hdpi-v4" type="drawable"/><file name="bg_default_button_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\bg_default_button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_check_off" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_check_off.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_check_on" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_check_on.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_select_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background_select" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_select_background_select.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background_select_left" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_select_background_select_left.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background_select_left_down" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_select_background_select_left_down.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background_select_right" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_select_background_select_right.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background_select_right_down" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_select_background_select_right_down.xml" qualifiers="hdpi-v4" type="drawable"/><file name="button_background" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\button_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="button_disenabled_background" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\button_disenabled_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="button_press_background" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\button_press_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="button_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="check_button_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\check_button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="color_button_background" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\color_button_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="color_button_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\color_button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="down" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\down.png" qualifiers="hdpi-v4" type="drawable"/><file name="editbox_background" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\editbox_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="gradient_bg" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\gradient_bg.xml" qualifiers="hdpi-v4" type="drawable"/><file name="icon_popupwin_menu_bg" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\icon_popupwin_menu_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="left" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\left.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_bg" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\list_bg.xml" qualifiers="hdpi-v4" type="drawable"/><file name="list_bg_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\list_bg_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="list_item_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\list_item_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="menu_icon" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\menu_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="more_set_button" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\more_set_button.png" qualifiers="hdpi-v4" type="drawable"/><file name="more_set_button_background_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\more_set_button_background_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="more_set_button_click" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\more_set_button_click.png" qualifiers="hdpi-v4" type="drawable"/><file name="more_set_button_disenabled" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\more_set_button_disenabled.png" qualifiers="hdpi-v4" type="drawable"/><file name="radio_button_checked" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\radio_button_checked.png" qualifiers="hdpi-v4" type="drawable"/><file name="radio_button_not_checked" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\radio_button_not_checked.png" qualifiers="hdpi-v4" type="drawable"/><file name="radio_button_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\radio_button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="readonly_editbox_background" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\readonly_editbox_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="right" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\right.png" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_bottom" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_bottom.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_bottom_select" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_bottom_select.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_bottom_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_bottom_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_middle" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_middle.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_middle_select" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_middle_select.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_middle_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_middle_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_press" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_press.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_press_select" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_press_select.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_press_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_press_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_top" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_top.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_top_select" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_top_select.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_top_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_top_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="title_button_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\title_button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="up" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\up.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_connect232" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\layout\activity_connect232.xml" qualifiers="" type="layout"/><file name="activity_main" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_rw_data" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\layout\activity_rw_data.xml" qualifiers="" type="layout"/><file name="listinfo_items" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\layout\listinfo_items.xml" qualifiers="" type="layout"/><file name="listtag_items" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\layout\listtag_items.xml" qualifiers="" type="layout"/><file name="query" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\layout\query.xml" qualifiers="" type="layout"/><file name="scan_view" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\layout\scan_view.xml" qualifiers="" type="layout"/><file name="activity_mainsad" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\menu\activity_mainsad.xml" qualifiers="" type="menu"/><file name="connect232" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\menu\connect232.xml" qualifiers="" type="menu"/><file name="main" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file name="rw_" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\menu\rw_.xml" qualifiers="" type="menu"/><file name="scan_new" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\raw\scan_new.ogg" qualifiers="" type="raw"/><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values\colors-old.xml" qualifiers=""><color name="divide">#000000</color><color name="epc_selected">#11000000</color></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values\colors.xml" qualifiers=""><color name="transparent_background_button">#11000000</color><color name="transparent_background">#ffffffff</color><color name="light_blue">#0bbbf7</color></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="list_width">404dp</dimen><dimen name="list_height">250dp</dimen><dimen name="lable_width">345dp</dimen><dimen name="lable_num_width">45dp</dimen><dimen name="list_devide">1dp</dimen><dimen name="button_height">40dp</dimen><dimen name="button_width">80dp</dimen><dimen name="rm_6c_et_height">40dp</dimen></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values\strings.xml" qualifiers=""><drawable name="clr_normal">#666666</drawable><drawable name="clr_pressed">#333333</drawable><drawable name="list_normal">#00000000</drawable><drawable name="list_pressed">#FF333333</drawable><string name="app_name">RFIDDemo</string><string name="action_settings">Settings</string><string name="hello_world">Hello world!</string><string-array name="type_spinner">
+        <item>A</item>
+        <item>B</item>
+    </string-array><string-array name="comtype_spinner">
+        <item>RS232</item>
+    </string-array><string name="selecttag">You must select one label to operationu!</string><string name="open_warning">You must open the device before your operate!</string><string name="wordptr_empty_warning">WordPtr can not be empty!</string><string name="length_empty_warning">Length can not be empty!</string><string name="pwd_empty_warning">Password can not be empty!</string><string name="content_empty_warning">Write data need content not be empty!</string><string name="length_content_warning">Length and content does not match!</string><string name="str_lenght_odd_warning">Length of every data can not be odd!</string><string name="data_ilegal">Data illegal!(empty or length is odd?)</string><string name="menu_settings">Settings</string><string name="title_activity_testasda">Testasda</string><string-array name="sp_block">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+    </string-array><string name="title_activity_connect232">Connect232</string><string name="title_activity_rw_">RW_Activity</string><string name="tab_set">SETTING</string><string name="tab_scan">INVENTORY</string><string name="tab_operation">READ AND WRITE</string><string name="com_type">Type:</string><string name="serialport">SerialPort:</string><string name="baudrate">BaudRate:</string><string name="version">Version:</string><string name="power">Power:</string><string name="btConnect">Connect</string><string name="btGet">Get</string><string name="btSet">Set</string><string name="btStart">Start Inventory</string><string name="btStop">Stop Inventory</string><string name="btClear">Clear</string><string name="Count">Count:</string><string name="Label">Label:</string><string name="Time">Time(ms):</string><string name="Result">Result:</string><string name="blockNo">Block(Dec):</string><string name="blockLength">Block length(Dec):</string><string name="wdata">Write Data(Hex):</string><string name="rdata">Read Data(Hex):</string><string name="label_type">Type:</string><string name="btwblock">Write Block</string><string name="btrblock">Read Block</string><string name="btrblocks">Read Blocks</string><string name="password">Password(Hex):</string><string name="afi">AFI(Hex):</string><string name="setpassword">Set Password</string><string name="writepassword">Write Password</string><string name="protectafi">Protect AFI</string><string name="protecteas">Protect EAS</string><string name="setafi">Set AFI</string><string name="getafi">Read AFI</string><string name="seteas">Set EAS</string><string name="reseteas">Reset EAS</string><string name="easalarm">EAS Alarm</string><string name="success">Success</string><string name="failed">Failed</string><string name="strEasAlarm">EAS Alarm</string><string name="strNoalarm">No Alarm</string></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values-sw600dp\dimens.xml" qualifiers="sw600dp-v13"/><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values-zh\strings.xml" qualifiers="zh"><drawable name="clr_normal">#666666</drawable><drawable name="clr_pressed">#333333</drawable><drawable name="list_normal">#00000000</drawable><drawable name="list_pressed">#FF333333</drawable><string name="app_name">RFIDDemo</string><string name="action_settings">Settings</string><string name="hello_world">Hello world!</string><string-array name="type_spinner">
+        <item>A</item>
+        <item>B</item>
+    </string-array><string-array name="comtype_spinner">
+        <item>RS232</item>
+    </string-array><string name="selecttag">请选择标签进行UID操作!</string><string name="open_warning">请先连接设备!</string><string name="wordptr_empty_warning">起始块号不能为空!</string><string name="length_empty_warning">长度不能为空!</string><string name="pwd_empty_warning">密码不能为空!</string><string name="content_empty_warning">写数据不能为空!</string><string name="length_content_warning">长度和数据不匹配!</string><string name="str_lenght_odd_warning">Length of every data can not be odd!</string><string name="data_ilegal">Data illegal!(empty or length is odd?)</string><string name="menu_settings">设置</string><string name="title_activity_testasda"/><string-array name="sp_block">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+    </string-array><string name="title_activity_connect232">Connect232</string><string name="title_activity_rw_">RW_Activity</string><string name="tab_set">设置</string><string name="tab_scan">查询</string><string name="tab_operation">读写</string><string name="com_type">通讯方式:</string><string name="serialport">串口:</string><string name="baudrate">波特率:</string><string name="version">固件版本:</string><string name="power">功率:</string><string name="btConnect">连接</string><string name="btGet">读取</string><string name="btSet">设置</string><string name="btStart">开始盘点</string><string name="btStop">停止盘点</string><string name="btClear">清空</string><string name="Count">轮数:</string><string name="Label">张数:</string><string name="Time">时间(ms):</string><string name="Result">指令执行结果:</string><string name="blockNo">待读取块号(Dec):</string><string name="blockLength">块数量(Dec):</string><string name="wdata">写数据(Hex):</string><string name="rdata">读数据(Hex):</string><string name="label_type">标签类型:</string><string name="btwblock">写单块</string><string name="btrblock">读单块</string><string name="btrblocks">读多块</string><string name="password">密码(Hex):</string><string name="afi">AFI(Hex):</string><string name="setpassword">设置密码</string><string name="writepassword">写密码</string><string name="protectafi">AFI密码保护</string><string name="protecteas">EAS密码保护</string><string name="setafi">设置AFI</string><string name="getafi">读取AFI</string><string name="seteas">设置EAS</string><string name="reseteas">重置EAS</string><string name="easalarm">检测EAS报警</string><string name="success">执行成功</string><string name="failed">执行失败</string><string name="strEasAlarm">EAS报警</string><string name="strNoalarm">无报警</string></file><file name="inventorylist_tittle" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\xml\inventorylist_tittle.xml" qualifiers="" type="xml"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\build\generated\res\resValues\debug"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable></configuration></mergedItems></merger>

@@ -1,0 +1,4 @@
+#Wed Apr 16 07:57:41 IST 2025
+base.0=D\:\\Tarsem\\2 RoyalRay Handheld RFID Reader RRH9171A\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

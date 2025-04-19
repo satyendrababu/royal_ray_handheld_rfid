@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res"><file name="a" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\a.png" qualifiers="hdpi-v4" type="drawable"/><file name="back" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\back.png" qualifiers="hdpi-v4" type="drawable"/><file name="bg_default_button_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\bg_default_button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_check_off" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_check_off.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_check_on" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_check_on.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_select_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background_select" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_select_background_select.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background_select_left" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_select_background_select_left.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background_select_left_down" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_select_background_select_left_down.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background_select_right" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_select_background_select_right.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background_select_right_down" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\btn_select_background_select_right_down.xml" qualifiers="hdpi-v4" type="drawable"/><file name="button_background" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\button_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="button_disenabled_background" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\button_disenabled_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="button_press_background" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\button_press_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="button_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="check_button_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\check_button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="color_button_background" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\color_button_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="color_button_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\color_button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="down" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\down.png" qualifiers="hdpi-v4" type="drawable"/><file name="editbox_background" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\editbox_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="gradient_bg" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\gradient_bg.xml" qualifiers="hdpi-v4" type="drawable"/><file name="icon_popupwin_menu_bg" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\icon_popupwin_menu_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="left" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\left.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_bg" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\list_bg.xml" qualifiers="hdpi-v4" type="drawable"/><file name="list_bg_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\list_bg_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="list_item_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\list_item_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="menu_icon" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\menu_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="more_set_button" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\more_set_button.png" qualifiers="hdpi-v4" type="drawable"/><file name="more_set_button_background_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\more_set_button_background_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="more_set_button_click" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\more_set_button_click.png" qualifiers="hdpi-v4" type="drawable"/><file name="more_set_button_disenabled" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\more_set_button_disenabled.png" qualifiers="hdpi-v4" type="drawable"/><file name="radio_button_checked" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\radio_button_checked.png" qualifiers="hdpi-v4" type="drawable"/><file name="radio_button_not_checked" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\radio_button_not_checked.png" qualifiers="hdpi-v4" type="drawable"/><file name="radio_button_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\radio_button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="readonly_editbox_background" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\readonly_editbox_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="right" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\right.png" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_bottom" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_bottom.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_bottom_select" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_bottom_select.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_bottom_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_bottom_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_middle" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_middle.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_middle_select" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_middle_select.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_middle_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_middle_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_press" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_press.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_press_select" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_press_select.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_press_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_press_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_top" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_top.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_top_select" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_top_select.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_top_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\table_item_top_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="title_button_selector" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\title_button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="up" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-hdpi\up.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_connect232" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\layout\activity_connect232.xml" qualifiers="" type="layout"/><file name="activity_main" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_rw_data" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\layout\activity_rw_data.xml" qualifiers="" type="layout"/><file name="listinfo_items" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\layout\listinfo_items.xml" qualifiers="" type="layout"/><file name="listtag_items" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\layout\listtag_items.xml" qualifiers="" type="layout"/><file name="query" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\layout\query.xml" qualifiers="" type="layout"/><file name="scan_view" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\layout\scan_view.xml" qualifiers="" type="layout"/><file name="activity_mainsad" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\menu\activity_mainsad.xml" qualifiers="" type="menu"/><file name="connect232" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\menu\connect232.xml" qualifiers="" type="menu"/><file name="main" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file name="rw_" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\menu\rw_.xml" qualifiers="" type="menu"/><file name="scan_new" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\raw\scan_new.ogg" qualifiers="" type="raw"/><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values\colors-old.xml" qualifiers=""><color name="divide">#000000</color><color name="epc_selected">#11000000</color></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values\colors.xml" qualifiers=""><color name="transparent_background_button">#11000000</color><color name="transparent_background">#ffffffff</color><color name="light_blue">#0bbbf7</color></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="list_width">404dp</dimen><dimen name="list_height">250dp</dimen><dimen name="lable_width">345dp</dimen><dimen name="lable_num_width">45dp</dimen><dimen name="list_devide">1dp</dimen><dimen name="button_height">40dp</dimen><dimen name="button_width">80dp</dimen><dimen name="rm_6c_et_height">40dp</dimen></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values\strings.xml" qualifiers=""><drawable name="clr_normal">#666666</drawable><drawable name="clr_pressed">#333333</drawable><drawable name="list_normal">#00000000</drawable><drawable name="list_pressed">#FF333333</drawable><string name="app_name">RFIDDemo</string><string name="action_settings">Settings</string><string name="hello_world">Hello world!</string><string-array name="type_spinner">
+        <item>A</item>
+        <item>B</item>
+    </string-array><string-array name="comtype_spinner">
+        <item>RS232</item>
+    </string-array><string name="selecttag">You must select one label to operationu!</string><string name="open_warning">You must open the device before your operate!</string><string name="wordptr_empty_warning">WordPtr can not be empty!</string><string name="length_empty_warning">Length can not be empty!</string><string name="pwd_empty_warning">Password can not be empty!</string><string name="content_empty_warning">Write data need content not be empty!</string><string name="length_content_warning">Length and content does not match!</string><string name="str_lenght_odd_warning">Length of every data can not be odd!</string><string name="data_ilegal">Data illegal!(empty or length is odd?)</string><string name="menu_settings">Settings</string><string name="title_activity_testasda">Testasda</string><string-array name="sp_block">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+    </string-array><string name="title_activity_connect232">Connect232</string><string name="title_activity_rw_">RW_Activity</string><string name="tab_set">SETTING</string><string name="tab_scan">INVENTORY</string><string name="tab_operation">READ AND WRITE</string><string name="com_type">Type:</string><string name="serialport">SerialPort:</string><string name="baudrate">BaudRate:</string><string name="version">Version:</string><string name="power">Power:</string><string name="btConnect">Connect</string><string name="btGet">Get</string><string name="btSet">Set</string><string name="btStart">Start Inventory</string><string name="btStop">Stop Inventory</string><string name="btClear">Clear</string><string name="Count">Count:</string><string name="Label">Label:</string><string name="Time">Time(ms):</string><string name="Result">Result:</string><string name="blockNo">Block(Dec):</string><string name="blockLength">Block length(Dec):</string><string name="wdata">Write Data(Hex):</string><string name="rdata">Read Data(Hex):</string><string name="label_type">Type:</string><string name="btwblock">Write Block</string><string name="btrblock">Read Block</string><string name="btrblocks">Read Blocks</string><string name="password">Password(Hex):</string><string name="afi">AFI(Hex):</string><string name="setpassword">Set Password</string><string name="writepassword">Write Password</string><string name="protectafi">Protect AFI</string><string name="protecteas">Protect EAS</string><string name="setafi">Set AFI</string><string name="getafi">Read AFI</string><string name="seteas">Set EAS</string><string name="reseteas">Reset EAS</string><string name="easalarm">EAS Alarm</string><string name="success">Success</string><string name="failed">Failed</string><string name="strEasAlarm">EAS Alarm</string><string name="strNoalarm">No Alarm</string></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values-sw600dp\dimens.xml" qualifiers="sw600dp-v13"/><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\values-zh\strings.xml" qualifiers="zh"><drawable name="clr_normal">#666666</drawable><drawable name="clr_pressed">#333333</drawable><drawable name="list_normal">#00000000</drawable><drawable name="list_pressed">#FF333333</drawable><string name="app_name">RFIDDemo</string><string name="action_settings">Settings</string><string name="hello_world">Hello world!</string><string-array name="type_spinner">
+        <item>A</item>
+        <item>B</item>
+    </string-array><string-array name="comtype_spinner">
+        <item>RS232</item>
+    </string-array><string name="selecttag">请选择标签进行UID操作!</string><string name="open_warning">请先连接设备!</string><string name="wordptr_empty_warning">起始块号不能为空!</string><string name="length_empty_warning">长度不能为空!</string><string name="pwd_empty_warning">密码不能为空!</string><string name="content_empty_warning">写数据不能为空!</string><string name="length_content_warning">长度和数据不匹配!</string><string name="str_lenght_odd_warning">Length of every data can not be odd!</string><string name="data_ilegal">Data illegal!(empty or length is odd?)</string><string name="menu_settings">设置</string><string name="title_activity_testasda"/><string-array name="sp_block">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+    </string-array><string name="title_activity_connect232">Connect232</string><string name="title_activity_rw_">RW_Activity</string><string name="tab_set">设置</string><string name="tab_scan">查询</string><string name="tab_operation">读写</string><string name="com_type">通讯方式:</string><string name="serialport">串口:</string><string name="baudrate">波特率:</string><string name="version">固件版本:</string><string name="power">功率:</string><string name="btConnect">连接</string><string name="btGet">读取</string><string name="btSet">设置</string><string name="btStart">开始盘点</string><string name="btStop">停止盘点</string><string name="btClear">清空</string><string name="Count">轮数:</string><string name="Label">张数:</string><string name="Time">时间(ms):</string><string name="Result">指令执行结果:</string><string name="blockNo">待读取块号(Dec):</string><string name="blockLength">块数量(Dec):</string><string name="wdata">写数据(Hex):</string><string name="rdata">读数据(Hex):</string><string name="label_type">标签类型:</string><string name="btwblock">写单块</string><string name="btrblock">读单块</string><string name="btrblocks">读多块</string><string name="password">密码(Hex):</string><string name="afi">AFI(Hex):</string><string name="setpassword">设置密码</string><string name="writepassword">写密码</string><string name="protectafi">AFI密码保护</string><string name="protecteas">EAS密码保护</string><string name="setafi">设置AFI</string><string name="getafi">读取AFI</string><string name="seteas">设置EAS</string><string name="reseteas">重置EAS</string><string name="easalarm">检测EAS报警</string><string name="success">执行成功</string><string name="failed">执行失败</string><string name="strEasAlarm">EAS报警</string><string name="strNoalarm">无报警</string></file><file name="inventorylist_tittle" path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\main\res\xml\inventorylist_tittle.xml" qualifiers="" type="xml"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Tarsem\2 RoyalRay Handheld RFID Reader RRH9171A\app\build\generated\res\resValues\debug"/></dataSet><mergedItems/></merger>

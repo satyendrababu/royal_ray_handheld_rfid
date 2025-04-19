@@ -1,0 +1,135 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/gradient_bg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#DCDCDC"
+        android:layout_marginTop="50dp">
+
+        <TextView
+             android:layout_width="0dip"
+             android:layout_height="wrap_content"
+             android:gravity="right"
+             android:layout_gravity="center"
+             android:layout_weight="1"
+             android:text="@string/com_type" />
+		<Spinner
+	              android:id="@+id/comtype_spinner"
+	              android:layout_width="0dip"
+	              android:layout_height="@dimen/rm_6c_et_height"
+	              android:layout_weight="2"
+	              android:gravity="left" />
+
+    </LinearLayout>
+
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="20dp"
+     android:background="#DCDCDC"
+    android:gravity="center_vertical"
+   >
+
+        <LinearLayout
+        android:id="@+id/layout_rs232"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <LinearLayout
+	    android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+		android:gravity="center_vertical"
+		android:layout_marginTop="10sp"
+		android:paddingLeft="10.0sp"
+		android:paddingTop="5.0sp"
+		android:paddingRight="10.0sp"
+		android:paddingBottom="5.0sp">
+		
+		<TextView
+			android:layout_width="0dp"
+        	android:layout_height="wrap_content"
+        	android:gravity="right"
+            android:layout_gravity="center"
+        	android:text="@string/serialport"
+        	android:layout_weight="1"
+        	android:textColor="#ff222222" />
+
+		<Spinner
+	              android:id="@+id/rs232_spinner"
+	              android:layout_width="0dip"
+	              android:layout_height="@dimen/rm_6c_et_height"
+	              android:layout_weight="2"
+	              android:gravity="left" />
+	</LinearLayout>
+	
+    <LinearLayout
+	    android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+		android:gravity="center_vertical"
+		android:layout_marginTop="10sp"
+		android:paddingLeft="10.0sp"
+		android:paddingTop="5.0sp"
+		android:paddingRight="10.0sp"
+		android:paddingBottom="5.0sp" >
+		
+		<TextView
+			android:layout_width="0dp"
+        	android:layout_height="wrap_content"
+        	android:gravity="right"
+            android:layout_gravity="center"
+        	android:text="@string/baudrate"
+        	android:layout_weight="1"
+        	android:textColor="#ff222222" />
+
+		<Spinner
+	              android:id="@+id/baud_spinner"
+	              android:layout_width="0dip"
+	              android:layout_height="@dimen/rm_6c_et_height"
+	              android:layout_weight="2"
+	              android:gravity="left" />
+
+	</LinearLayout>
+
+        </LinearLayout>
+		<LinearLayout
+             android:id="@+id/layout_tcp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+        
+    	</LinearLayout>
+    <LinearLayout 
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+        android:orientation="vertical"
+         android:layout_weight="1"
+       >
+	<TextView
+	    android:id="@+id/textview_connect"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="20.0sp"
+		android:layout_marginTop="20.0sp"
+		android:layout_marginRight="20.0sp"
+		android:layout_marginBottom="5.0sp"
+		android:paddingTop="10.0sp"
+		android:paddingBottom="10.0sp"
+		android:gravity="center_horizontal"
+		android:background="@drawable/color_button_selector"
+		android:text="@string/btConnect"
+		android:textColor="#ff222222"
+		android:textStyle="bold"
+		android:clickable="true" />
+</LinearLayout>
+
+</LinearLayout>
+

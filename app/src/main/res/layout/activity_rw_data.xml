@@ -1,0 +1,381 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+	<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+	<LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+           <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:text="@string/Result" />
+
+                <TextView
+                    android:id="@+id/rw_result"
+                    android:layout_weight="2"
+                    android:layout_width="0dip"
+                    android:layout_gravity="center"
+                    android:textSize="20dp"
+                    android:textColor="#cc0000"
+                    android:gravity="center"
+                    android:layout_height="@dimen/rm_6c_et_height"/>
+        </LinearLayout>
+        
+	
+	   <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"/>
+        
+	    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+           <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:text="UID:" />
+			<Spinner
+                android:id="@+id/uid_spinner"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/rm_6c_et_height"
+                android:layout_weight="2"
+                android:gravity="left" />
+               
+        </LinearLayout>
+        
+	  <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+           <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:text="@string/label_type" />
+			<Spinner
+                android:id="@+id/mtype_spinner"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/rm_6c_et_height"
+                android:layout_weight="2"
+                android:gravity="left" />
+               
+        </LinearLayout>
+        
+	  <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+           <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:text="@string/blockNo" />
+			<EditText
+                android:id="@+id/et_wordptr"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/rm_6c_et_height"
+                android:layout_weight="2"
+                android:inputType="numberSigned"
+                android:text="0"
+                android:gravity="left" />
+               
+        </LinearLayout>
+        
+	  <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+           <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:text="@string/blockLength" />
+			<EditText
+                android:id="@+id/et_num"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/rm_6c_et_height"
+                android:layout_weight="2"
+                android:inputType="numberSigned"
+                android:text="6"
+                android:gravity="left" />
+               
+        </LinearLayout>
+        
+	  
+	 
+        
+	  <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+           <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:text="@string/wdata" />
+			<EditText
+                android:id="@+id/et_content"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:text="00000000"
+                android:inputType="textMultiLine"
+                android:gravity="left" />
+               
+        </LinearLayout>
+        
+	   <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+           <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:text="@string/rdata" />
+			<EditText
+                android:id="@+id/et_read"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:text=""
+                android:inputType="textMultiLine"
+                android:singleLine="false"
+                android:gravity="left" />
+               
+        </LinearLayout>
+        
+	    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/button_read"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/button_height"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@drawable/color_button_selector"
+                android:layout_marginLeft="10.0sp"
+				android:layout_marginRight="10.0sp"
+				android:layout_marginBottom="5.0sp"
+                android:text="@string/btrblock" />
+
+            <Button
+                android:id="@+id/button_write"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/button_height"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@drawable/color_button_selector"
+                android:layout_marginLeft="10.0sp"
+				android:layout_marginRight="10.0sp"
+				android:layout_marginBottom="5.0sp"
+                android:text="@string/btwblock" />
+            <Button
+                android:id="@+id/button_readmul"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/button_height"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@drawable/color_button_selector"
+                android:layout_marginLeft="10.0sp"
+				android:layout_marginRight="10.0sp"
+				android:layout_marginBottom="5.0sp"
+                android:text="@string/btrblocks" />
+
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+
+			<TextView
+				android:layout_width="0dip"
+				android:layout_height="wrap_content"
+				android:gravity="right"
+				android:layout_gravity="center"
+				android:layout_weight="1"
+				android:text="@string/password" />
+			<EditText
+				android:id="@+id/et_pwd"
+				android:layout_width="0dip"
+				android:layout_height="wrap_content"
+				android:layout_weight="2"
+				android:text="00000000"
+				android:inputType="textMultiLine"
+				android:singleLine="false"
+				android:gravity="left" />
+
+		</LinearLayout>
+
+
+		<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+
+			<Button
+				android:id="@+id/button_setpwd"
+				android:layout_width="0dip"
+				android:layout_height="@dimen/button_height"
+				android:layout_gravity="center_horizontal"
+				android:layout_weight="1"
+				android:background="@drawable/color_button_selector"
+				android:layout_marginLeft="10.0sp"
+				android:layout_marginRight="10.0sp"
+				android:layout_marginBottom="5.0sp"
+				android:text="@string/setpassword" />
+
+			<Button
+				android:id="@+id/button_writepwd"
+				android:layout_width="0dip"
+				android:layout_height="@dimen/button_height"
+				android:layout_gravity="center_horizontal"
+				android:layout_weight="1"
+				android:background="@drawable/color_button_selector"
+				android:layout_marginLeft="10.0sp"
+				android:layout_marginRight="10.0sp"
+				android:layout_marginBottom="5.0sp"
+				android:text="@string/writepassword" />
+			<Button
+				android:id="@+id/button_protect_AFI"
+				android:layout_width="0dip"
+				android:layout_height="@dimen/button_height"
+				android:layout_gravity="center_horizontal"
+				android:layout_weight="1"
+				android:background="@drawable/color_button_selector"
+				android:layout_marginLeft="10.0sp"
+				android:layout_marginRight="10.0sp"
+				android:layout_marginBottom="5.0sp"
+				android:text="@string/protectafi" />
+			<Button
+				android:id="@+id/button_protect_EAS"
+				android:layout_width="0dip"
+				android:layout_height="@dimen/button_height"
+				android:layout_gravity="center_horizontal"
+				android:layout_weight="1"
+				android:background="@drawable/color_button_selector"
+				android:layout_marginLeft="10.0sp"
+				android:layout_marginRight="10.0sp"
+				android:layout_marginBottom="1.0sp"
+				android:text="@string/protecteas" />
+
+		</LinearLayout>
+		<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+
+			<TextView
+				android:layout_width="0dip"
+				android:layout_height="wrap_content"
+				android:gravity="right"
+				android:layout_gravity="center"
+				android:layout_weight="1"
+				android:text="AFI(Hex):" />
+			<EditText
+				android:id="@+id/et_AFI"
+				android:layout_width="0dip"
+				android:layout_height="wrap_content"
+				android:layout_weight="2"
+				android:text="00"
+				android:inputType="textMultiLine"
+				android:singleLine="false"
+				android:gravity="left" />
+
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+
+			<Button
+				android:id="@+id/button_writeafi"
+				android:layout_width="0dip"
+				android:layout_height="@dimen/button_height"
+				android:layout_gravity="center_horizontal"
+				android:layout_weight="1"
+				android:background="@drawable/color_button_selector"
+				android:layout_marginLeft="10.0sp"
+				android:layout_marginRight="10.0sp"
+				android:layout_marginBottom="5.0sp"
+				android:text="@string/setafi" />
+
+			<Button
+				android:id="@+id/button_readafi"
+				android:layout_width="0dip"
+				android:layout_height="@dimen/button_height"
+				android:layout_gravity="center_horizontal"
+				android:layout_weight="1"
+				android:background="@drawable/color_button_selector"
+				android:layout_marginLeft="10.0sp"
+				android:layout_marginRight="10.0sp"
+				android:layout_marginBottom="5.0sp"
+				android:text="@string/getafi" />
+
+
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+
+			<Button
+				android:id="@+id/button_seteas"
+				android:layout_width="0dip"
+				android:layout_height="@dimen/button_height"
+				android:layout_gravity="center_horizontal"
+				android:layout_weight="1"
+				android:background="@drawable/color_button_selector"
+				android:layout_marginLeft="10.0sp"
+				android:layout_marginRight="10.0sp"
+				android:layout_marginBottom="5.0sp"
+				android:text="@string/seteas" />
+
+			<Button
+				android:id="@+id/button_reseteas"
+				android:layout_width="0dip"
+				android:layout_height="@dimen/button_height"
+				android:layout_gravity="center_horizontal"
+				android:layout_weight="1"
+				android:background="@drawable/color_button_selector"
+				android:layout_marginLeft="10.0sp"
+				android:layout_marginRight="10.0sp"
+				android:layout_marginBottom="5.0sp"
+				android:text="@string/reseteas" />
+			<Button
+				android:id="@+id/button_detecteas"
+				android:layout_width="0dip"
+				android:layout_height="@dimen/button_height"
+				android:layout_gravity="center_horizontal"
+				android:layout_weight="1"
+				android:background="@drawable/color_button_selector"
+				android:layout_marginLeft="10.0sp"
+				android:layout_marginRight="10.0sp"
+				android:layout_marginBottom="5.0sp"
+				android:text="@string/easalarm" />
+
+		</LinearLayout>
+
+	</LinearLayout>
+</ScrollView>

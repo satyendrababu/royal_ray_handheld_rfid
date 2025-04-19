@@ -1,0 +1,140 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+  	android:layout_height="match_parent"
+  	android:orientation="vertical"
+  	android:background="@drawable/gradient_bg">
+
+			<LinearLayout
+			android:id="@+id/line1"
+		    android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="20dp"
+			android:orientation="horizontal">"
+		    
+		    <TextView
+				android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginBottom="10.0dip"
+	            android:layout_marginTop="10.0dip"
+	            android:gravity="center_vertical"
+	            android:paddingLeft="4.0dip"
+	            android:text="@string/version"
+	            android:textColor="#ff222222"
+	            android:textSize="12.0sp" />
+		    
+			<LinearLayout 
+			    android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:paddingLeft="10.0dip"
+				android:paddingTop="5.0dip"
+				android:paddingRight="10.0dip"
+				android:paddingBottom="5.0dip"
+				android:orientation="horizontal" >
+	
+		        <EditText
+		            android:id="@+id/version_text"
+		            android:singleLine="true"
+		            android:layout_width="0dp"
+		            android:layout_height="30sp"
+		            android:background="@drawable/editbox_background"
+		            android:gravity="center_vertical|center_horizontal"
+		            android:inputType="text"
+		            android:layout_weight="1"
+		            android:textSize="16sp" />
+	        	
+				<TextView
+				    android:id="@+id/getversion"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:layout_marginLeft="20.0sp"
+					android:layout_marginRight="20.0sp"
+					android:layout_marginBottom="5.0sp"
+					android:paddingTop="10.0sp"
+					android:paddingBottom="10.0sp"
+					android:gravity="center_horizontal"
+					android:background="@drawable/button_selector"
+					android:text="@string/btGet"
+					android:textColor="#ff222222"
+					android:textStyle="bold"
+					android:textSize="12.0sp"
+					android:clickable="true" />
+		        
+	        </LinearLayout>
+		</LinearLayout>
+
+	<LinearLayout
+		android:id="@+id/line3"
+		android:layout_below="@+id/line1"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="20dp"
+		android:orientation="horizontal">
+
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginBottom="10.0dip"
+			android:layout_marginTop="10.0dip"
+			android:gravity="center_vertical"
+			android:paddingLeft="4.0dip"
+			android:text="@string/power"
+			android:textColor="#ff222222"
+			android:textSize="12.0sp" />
+
+		<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:paddingLeft="10.0dip"
+			android:paddingTop="5.0dip"
+			android:paddingRight="10.0dip"
+			android:paddingBottom="5.0dip"
+			android:orientation="horizontal" >
+
+			<Spinner
+				android:id="@+id/band_power"
+				android:layout_width="0dp"
+				android:layout_height="@dimen/rm_6c_et_height"
+				android:layout_weight="1"
+				android:gravity="left" />
+
+			<TextView
+				android:id="@+id/setpower"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:layout_marginLeft="20.0sp"
+				android:layout_marginRight="20.0sp"
+				android:layout_marginBottom="5.0sp"
+				android:paddingTop="10.0sp"
+				android:paddingBottom="10.0sp"
+				android:gravity="center_horizontal"
+				android:background="@drawable/button_selector"
+				android:text="@string/btSet"
+				android:textColor="#ff222222"
+				android:textStyle="bold"
+				android:textSize="12.0sp"
+				android:clickable="true" />
+
+			<TextView
+				android:id="@+id/getpower"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:layout_marginLeft="20.0sp"
+				android:layout_marginRight="20.0sp"
+				android:layout_marginBottom="5.0sp"
+				android:paddingTop="10.0sp"
+				android:paddingBottom="10.0sp"
+				android:gravity="center_horizontal"
+				android:background="@drawable/button_selector"
+				android:text="@string/btGet"
+				android:textColor="#ff222222"
+				android:textStyle="bold"
+				android:textSize="12.0sp"
+				android:clickable="true" />
+
+		</LinearLayout>
+	</LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tab_inventory"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_startInventory"
+            android:background="@drawable/color_button_selector"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="20.0sp"
+			android:layout_marginRight="20.0sp"
+			android:layout_marginBottom="5.0sp"
+            android:text="@string/btStart"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/btn_stopInventory"
+           android:background="@drawable/color_button_selector"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="20.0sp"
+			android:layout_marginRight="20.0sp"
+			android:layout_marginBottom="5.0sp"
+            android:text="@string/btStop"
+            android:textSize="15sp" />
+
+     
+
+        <Button
+            android:id="@+id/btn_clearList"
+            android:background="@drawable/color_button_selector"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="20.0sp"
+			android:layout_marginRight="20.0sp"
+			android:layout_marginBottom="5.0sp"
+            android:text="@string/btClear"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/list_inventory"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/Count" />
+
+            <TextView
+                android:id="@+id/textCount"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="#CD0000"
+                android:text="0" />
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Label" />
+
+            <TextView
+                android:id="@+id/textNumber"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="#CD0000"
+                android:text="0" />
+            <TextView
+                android:id="@+id/textView31"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Time" />
+
+            <TextView
+                android:id="@+id/textTime"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="#CD0000"
+                android:text="0" />
+
+        </LinearLayout>
+		<LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#DCDCDC"
+            android:orientation="vertical" >
+        </LinearLayout>
+        <include
+            android:id="@+id/inventorylist_title"
+            layout="@xml/inventorylist_tittle" 
+            android:layout_marginTop="20dp"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#DCDCDC"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/list_inventory_record"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/list_bg"
+            android:cacheColorHint="@android:color/transparent"
+            android:divider="#f9b68b"
+            android:dividerHeight="1.0dp"
+            android:fadingEdge="none"
+            android:scrollbars="vertical" >
+        </ListView>
+
+    </LinearLayout>
+
+</LinearLayout>
